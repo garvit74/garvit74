@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **OpenAI APIs and Gemini Pro APIs**
 
-- 💬 Ask me about **NextJS, Machine Learning and LLMs**
+- 💬 Ask me about **Backend, Machine Learning and LLMs**
 
 - 📫 How to reach me **agarvit74@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Um-fOU18u6ZE7II7UHevDQp80HyEhz8X/view](https://drive.google.com/file/d/1Um-fOU18u6ZE7II7UHevDQp80HyEhz8X/view)
+- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/1Um-fOU18u6ZE7II7UHevDQp80HyEhz8X/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -125,4 +125,14 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
 </div>
 
+
+###
+
+<h2 align="center"> Contribution </h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/garvit74/garvit74/output/snake.svg" alt="Snake animation" />
 
